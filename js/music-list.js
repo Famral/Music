@@ -41,10 +41,10 @@ let allMusic = [
     src: "Shake-Beat-Music"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
-    img: "music-6",
-    src: "music-6"
+    name: "Power Dhol Celebration",
+    artist: "Manish Meena",
+    img: "Power-Dhol-Celebration-Music",
+    src: "Power-Dhol-Celebration-Music"
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
